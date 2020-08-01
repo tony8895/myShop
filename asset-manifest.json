@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/_http://tony8895.github.io/myShop/static/css/main.006552b2.chunk.css",
-    "main.js": "/_http://tony8895.github.io/myShop/static/js/main.1364fe56.chunk.js",
-    "main.js.map": "/_http://tony8895.github.io/myShop/static/js/main.1364fe56.chunk.js.map",
-    "runtime-main.js": "/_http://tony8895.github.io/myShop/static/js/runtime-main.9b51edec.js",
-    "runtime-main.js.map": "/_http://tony8895.github.io/myShop/static/js/runtime-main.9b51edec.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/_http://tony8895.github.io/myShop/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a35e60b8.chunk.js": "/_http://tony8895.github.io/myShop/static/js/2.a35e60b8.chunk.js",
-    "static/js/2.a35e60b8.chunk.js.map": "/_http://tony8895.github.io/myShop/static/js/2.a35e60b8.chunk.js.map",
-    "index.html": "/_http://tony8895.github.io/myShop/index.html",
-    "precache-manifest.bffb77348d18c9002c8bbf24065b56d9.js": "/_http://tony8895.github.io/myShop/precache-manifest.bffb77348d18c9002c8bbf24065b56d9.js",
-    "service-worker.js": "/_http://tony8895.github.io/myShop/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/_http://tony8895.github.io/myShop/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.006552b2.chunk.css.map": "/_http://tony8895.github.io/myShop/static/css/main.006552b2.chunk.css.map",
-    "static/js/2.a35e60b8.chunk.js.LICENSE.txt": "/_http://tony8895.github.io/myShop/static/js/2.a35e60b8.chunk.js.LICENSE.txt",
-    "static/media/Mask1.jpg": "/_http://tony8895.github.io/myShop/static/media/Mask1.a7e8594a.jpg",
-    "static/media/acro.jpg": "/_http://tony8895.github.io/myShop/static/media/acro.91c996af.jpg",
-    "static/media/home_img_1.jpg": "/_http://tony8895.github.io/myShop/static/media/home_img_1.5b4e0cd6.jpg",
-    "static/media/home_img_2.jpg": "/_http://tony8895.github.io/myShop/static/media/home_img_2.b89d20d4.jpg",
-    "static/media/home_small_1.jpg": "/_http://tony8895.github.io/myShop/static/media/home_small_1.25edeec0.jpg",
-    "static/media/home_small_2.jpg": "/_http://tony8895.github.io/myShop/static/media/home_small_2.43af7261.jpg"
+    "main.css": "/myShop/static/css/main.006552b2.chunk.css",
+    "main.js": "/myShop/static/js/main.079f41f1.chunk.js",
+    "main.js.map": "/myShop/static/js/main.079f41f1.chunk.js.map",
+    "runtime-main.js": "/myShop/static/js/runtime-main.0d3ed3ff.js",
+    "runtime-main.js.map": "/myShop/static/js/runtime-main.0d3ed3ff.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/myShop/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a35e60b8.chunk.js": "/myShop/static/js/2.a35e60b8.chunk.js",
+    "static/js/2.a35e60b8.chunk.js.map": "/myShop/static/js/2.a35e60b8.chunk.js.map",
+    "index.html": "/myShop/index.html",
+    "precache-manifest.3462ed05ae6093351c167f9eae7ee975.js": "/myShop/precache-manifest.3462ed05ae6093351c167f9eae7ee975.js",
+    "service-worker.js": "/myShop/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/myShop/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.006552b2.chunk.css.map": "/myShop/static/css/main.006552b2.chunk.css.map",
+    "static/js/2.a35e60b8.chunk.js.LICENSE.txt": "/myShop/static/js/2.a35e60b8.chunk.js.LICENSE.txt",
+    "static/media/Mask1.jpg": "/myShop/static/media/Mask1.a7e8594a.jpg",
+    "static/media/acro.jpg": "/myShop/static/media/acro.91c996af.jpg",
+    "static/media/home_img_1.jpg": "/myShop/static/media/home_img_1.5b4e0cd6.jpg",
+    "static/media/home_img_2.jpg": "/myShop/static/media/home_img_2.b89d20d4.jpg",
+    "static/media/home_small_1.jpg": "/myShop/static/media/home_small_1.25edeec0.jpg",
+    "static/media/home_small_2.jpg": "/myShop/static/media/home_small_2.43af7261.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b51edec.js",
+    "static/js/runtime-main.0d3ed3ff.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a35e60b8.chunk.js",
     "static/css/main.006552b2.chunk.css",
-    "static/js/main.1364fe56.chunk.js"
+    "static/js/main.079f41f1.chunk.js"
   ]
 }
